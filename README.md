@@ -1,1 +1,1 @@
-# Send-Email-Code
+# Sending the verification code to the Mail
